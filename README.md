@@ -1,4 +1,4 @@
-# C-Basics
+# C++-Basics
 Overview of some C++ Fundamental Concepts
 Problem 1: File: circle.cpp(class declaration, implementation and main in one .cpp file)
 Write Circle class, with proper instance variables and member functions. In main function, allocate an array of Circle objects. Get the size of the array from the user. Also, initialize each circle from the user. Find the largest circlein the array based on the area.
